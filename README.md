@@ -1,2 +1,2 @@
-# soul-musicx
+# Soul Musicx
 A Music Player 
